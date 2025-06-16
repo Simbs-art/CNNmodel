@@ -30,7 +30,6 @@ The objective is to evaluate the performance of custom and transfer learning arc
   - NumPy, Matplotlib, Seaborn
   - Scikit-learn (for evaluation metrics)
   - TensorFlow Datasets (for CIFAR-10)
-  - OpenCV (optional image processing)
 
 ---
 
